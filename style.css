@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  border: solid;
+}
+
+section {
+  border: solid tomato;
+  height: 80vh;
+  background-image: url("./assets/barco.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+h2 {
+  color: #ffffff;
+  width: 24vw;
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */
